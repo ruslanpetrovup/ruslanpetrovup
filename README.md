@@ -6,6 +6,7 @@
 - 👯 I’m currently learning **everything I can get my hands on**
 - 🤝 I'm looking **for something to work with**
 - 📫 How to reach me **ruslanpetrov163@gmail.com**
+- 📄 Know about my experiences [https://ruslanpetrovup.github.io/resume/](https://ruslanpetrovup.github.io/resume/)
 - ⚡ Fun fact **I enjoy writing code and creating something of my own**
 
 
